@@ -10,7 +10,6 @@ public class Gato {
 	
 	
 	public Gato(String nome, String cor, Integer idade) {
-		super();
 		this.nome = nome;
 		this.cor = cor;
 		this.idade = idade;
